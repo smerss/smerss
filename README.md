@@ -20,15 +20,22 @@ I'm a 15-year-old software enthusiast based in Turkey. I have a deep passion for
 
 * **Smerss Interactive:** Leading development on indie game projects and community tools.
 * **Game Modding:** Creating complex mechanics and total conversion mods for titles like *Hearts of Iron IV*, *Age of History*, and *Minecraft*.
-* **Web-Based Gaming:** Developing a TypeScript-based strategy game targeting Steam release.
+* **Web-Based Gaming:** Developing a TypeScript-based strategy game.
 * **AI Experiments:** Exploring machine learning models with PyTorch.
 
 ---
 
 ### GitHub Stats
 
-![Baran's GitHub stats](https://github-readme-stats.vercel.app/api?username=smerss&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smerss&layout=compact&theme=dark)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=smerss&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Smerss Github Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=smerss&theme=dark&hide_border=true&background=0d1117" alt="Smerss Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smerss&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Smerss Top Langs" />
+
+</div>
 
 ---
 
