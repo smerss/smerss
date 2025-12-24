@@ -28,12 +28,20 @@ I'm a 15-year-old software enthusiast based in Turkey. I have a deep passion for
 ### GitHub Stats
 
 <div align="center">
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smerss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Smerss Stats" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smerss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Smerss Top Langs" />
+  </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=smerss&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Smerss Github Stats" />
+  <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=smerss&theme=dark&hide_border=true&background=0d1117" alt="Smerss Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smerss&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Smerss Top Langs" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=smerss&theme=tokyonight&hide_border=true&background=0D1117" alt="Smerss Streak" />
+  </a>
 
 </div>
 
