@@ -20,7 +20,7 @@ I'm a 15-year-old software enthusiast based in Turkey. I have a deep passion for
 
 * **Smerss Interactive:** Leading development on indie game projects and community tools.
 * **Game Modding:** Creating complex mechanics and total conversion mods for titles like *Hearts of Iron IV*, *Age of History*, and *Minecraft*.
-* **Web-Based Gaming:** Developing a TypeScript-based strategy game.
+* **Web-Based Gaming:** Developing a AI-based strategy game.
 * **AI Experiments:** Exploring machine learning models with PyTorch.
 
 ---
