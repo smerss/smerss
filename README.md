@@ -1,16 +1,38 @@
-## Hi there 👋
+### Hi there, I'm Smerss 👋
 
-<!--
-**smerss/smerss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder of Smerss Interactive | Game Developer | Student**
 
-Here are some ideas to get you started:
+I'm a 15-year-old software enthusiast based in Turkey. I have a deep passion for game development, artificial intelligence, and modding ecosystems. I actively build projects ranging from strategy game mods to AI-driven applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack & Tools
+
+* **Languages:** Java, Python, JavaScript, TypeScript, Lua, C++ (Arduino)
+* **Game Dev & Graphics:** libGDX, Minecraft Modding (Fabric/Forge), OpenGL
+* **Web Technologies:** React, Node.js, Leaflet.js
+* **AI & Data:** PyTorch, NumPy
+* **Tools:** Gradle, Git, Linux
+
+---
+
+### What I'm Working On
+
+* **Smerss Interactive:** Leading development on indie game projects and community tools.
+* **Game Modding:** Creating complex mechanics and total conversion mods for titles like *Hearts of Iron IV*, *Age of History*, and *Minecraft*.
+* **Web-Based Gaming:** Developing a TypeScript-based strategy game targeting Steam release.
+* **AI Experiments:** Exploring machine learning models with PyTorch.
+
+---
+
+### GitHub Stats
+
+![Baran's GitHub stats](https://github-readme-stats.vercel.app/api?username=smerss&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smerss&layout=compact&theme=dark)
+
+---
+
+### Connect
+
+* **Email:** smeariermoon@gmail.com
+* **Discord Server:** [Click](https://discord.gg/xxv4KHWSxk)
