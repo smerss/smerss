@@ -2,7 +2,7 @@
 
 **Founder of Smerss Interactive | Game Developer | Student**
 
-I'm a 15-year-old software enthusiast based in Turkey. I have a deep passion for game development, artificial intelligence, and modding ecosystems. I actively build projects ranging from strategy game mods to AI-driven applications.
+I'm a software enthusiast based in Turkey. I have a deep passion for game development, artificial intelligence, and modding ecosystems. I actively build projects ranging from strategy game mods to AI-driven applications.
 
 ---
 
